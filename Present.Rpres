@@ -1,0 +1,29 @@
+Shiny Application and Reproducible Pitch Course Project
+========================================================
+author:Kehinde Usman 
+date: May 28, 2019
+autosize: true
+
+Project Overview
+========================================================
+
+This is the final requirement to complete developing data products course  
+
+Objective
+========================================================
+
+The aim of the project is to design an application that calculate distance covered by using speed and time taken inputted by the user.
+
+Explanation
+========================================================
+The formula used in this project to calcluate the distance covered is:
+  Speed * Time
+  
+Links
+========================================================
+
+The application link on github:
+<https://support.rstudio.com/hc/en-us/articles/200486468>.
+
+The application link on Rpubs:
+<http://rpubs.com/slemmykennis/500292>.
