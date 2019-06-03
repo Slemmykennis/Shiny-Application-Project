@@ -1,0 +1,38 @@
+Shiny Application and Reproducible Pitch Course Project
+========================================================
+author: Kehinde Usman
+date: June 3, 2019
+autosize: true
+
+Overview
+========================================================
+
+This presentation contains the documentation for diamond price prediction application as part of the requirement to complete the final project on developing data products.
+
+Aim
+========================================================
+
+The aim of the project is to design an application that predicts the price of diamond based on its characteristics. The characteristics that was considered in this project are: Carat, Color and Clarity.
+
+Data
+========================================================
+
+The data used for this application is `diamonds` data set, which is part of `ggplot2` package.
+This data set contains the information about 53940 diamonds with 10 variables:
+```{r echo=FALSE}
+library(ggplot2)
+```
+
+```{r echo=FALSE}
+summary(diamonds)
+
+```
+
+Links
+========================================================
+
+The application link on Shiny:
+<https://slemmykennis.shinyapps.io/Diamond/>.
+
+The application link on github:
+<https://github.com/Slemmykennis/Shiny-Application-Project>.
